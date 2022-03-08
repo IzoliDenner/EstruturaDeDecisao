@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e4f666f-43d2-424a-8238-e55825b961f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.exercicio11">
+  <component name="RunManager" selected="Python.exercicio14">
     <configuration name="exercicio10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstruturaDeDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstruturaDeDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstruturaDeDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstruturaDeDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio14" />
+        <item itemvalue="Python.exercicio13" />
+        <item itemvalue="Python.exercicio12" />
         <item itemvalue="Python.exercicio11" />
         <item itemvalue="Python.exercicio10" />
-        <item itemvalue="Python.exercicio9" />
-        <item itemvalue="Python.exercicio8" />
-        <item itemvalue="Python.exercicio7" />
       </list>
     </recent_temporary>
   </component>
